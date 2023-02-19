@@ -18,6 +18,6 @@ setup(
         'numpy',
         'pandas',
         'pandas_datareader',
-        'plotly'
+        'chart_studio'
     ]
 )
